@@ -2,6 +2,7 @@
   "name": "dance-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/dance-app/",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
